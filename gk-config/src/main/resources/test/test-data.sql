@@ -1,0 +1,4 @@
+INSERT INTO Course (id, name, imageUrl, price, age, description)
+VALUES (1, 'Up & Comin Geeks', 'http://www.geekykids.co.uk/images/UpCominGeeks.png', 186.00, 1, 'Beginners class covering basic Computer Science principles and problem solving skills. We cover basic programming constructs through graphical programming and we build a simple game at the end.');
+INSERT INTO Course (id, name, imageUrl, price, age, description)
+VALUES (2, 'Up & Comin Geeks', 'http://www.geekykids.co.uk/images/UpCominGeeks.png', 186.00, 1, 'Beginners class covering basic Computer Science principles and problem solving skills. We cover basic programming constructs through graphical programming and we build a simple game at the end.');
